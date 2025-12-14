@@ -2,6 +2,7 @@
 
 gitcmd="git -c commit.gpgsign=false"
 
+
 noapply=1
 isreject=0
 if [[ $1 == "--noapplied" ]]; then
