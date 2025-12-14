@@ -6,7 +6,6 @@ Paper [![Paper Build Status](https://img.shields.io/github/actions/workflow/stat
 
 The most widely used, high-performance Minecraft server that aims to fix gameplay and mechanics inconsistencies.
 
-
 **Support and Project Discussion:**
 - [Our forums](https://forums.papermc.io/) or [Discord](https://discord.gg/papermc)
 
